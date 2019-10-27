@@ -1,0 +1,9 @@
+{
+    "auth": {
+        "serverlessairlinebooking": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    }
+}
